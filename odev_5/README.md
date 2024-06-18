@@ -1,5 +1,8 @@
 # odev_5
 
+Hocam ödev çalışmıyor ama yine de göndermek istedim. Maalesef çok fazla vakit ayıramadım
+
+
 A new Flutter project.
 
 ## Getting Started
